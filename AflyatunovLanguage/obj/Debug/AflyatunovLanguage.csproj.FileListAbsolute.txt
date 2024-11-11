@@ -1,0 +1,110 @@
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.AssemblyReference.cache
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.SuggestedBindingRedirects.cache
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\AddEditPage.g.cs
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\ClientPage.g.cs
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\MainWindow.g.cs
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\App.g.cs
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\AflyatunovLanguage_Content.g.cs
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\AflyatunovLanguage_MarkupCompile.cache
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\AflyatunovLanguage_MarkupCompile.lref
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\bin\Debug\AflyatunovLanguage.exe.config
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\bin\Debug\AflyatunovLanguage.exe
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\bin\Debug\AflyatunovLanguage.pdb
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\bin\Debug\EntityFramework.dll
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\bin\Debug\EntityFramework.xml
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\AddEditPage.baml
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\ClientPage.baml
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\MainWindow.baml
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.g.resources
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.Properties.Resources.resources
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.GenerateResource.cache
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.CoreCompileInputs.cache
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.CopyComplete
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.exe
+D:\3 курс\2 семак\РПМ 2\22\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.pdb
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\bin\Debug\AflyatunovLanguage.exe.config
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\bin\Debug\AflyatunovLanguage.exe
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\bin\Debug\AflyatunovLanguage.pdb
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\bin\Debug\EntityFramework.dll
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\bin\Debug\EntityFramework.xml
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.AssemblyReference.cache
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.SuggestedBindingRedirects.cache
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\AddEditWindow.g.cs
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\ClientPage.g.cs
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\MainWindow.g.cs
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\App.g.cs
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\AflyatunovLanguage_Content.g.cs
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\AflyatunovLanguage_MarkupCompile.cache
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\AflyatunovLanguage_MarkupCompile.lref
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\AddEditWindow.baml
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\ClientPage.baml
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\MainWindow.baml
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.g.resources
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.Properties.Resources.resources
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.GenerateResource.cache
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.CoreCompileInputs.cache
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.CopyComplete
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.exe
+D:\3 курс\2 семак\РПМ 2\23\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.pdb
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\bin\Debug\AflyatunovLanguage.exe.config
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\bin\Debug\AflyatunovLanguage.exe
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\bin\Debug\AflyatunovLanguage.pdb
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\bin\Debug\EntityFramework.dll
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\bin\Debug\EntityFramework.xml
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.AssemblyReference.cache
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.SuggestedBindingRedirects.cache
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AddEditWindow.g.cs
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\ClientPage.g.cs
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\MainWindow.g.cs
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\App.g.cs
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage_Content.g.cs
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage_MarkupCompile.cache
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage_MarkupCompile.lref
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\App.baml
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AddEditWindow.baml
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\ClientPage.baml
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\MainWindow.baml
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.g.resources
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.Properties.Resources.resources
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.GenerateResource.cache
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.CoreCompileInputs.cache
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.CopyComplete
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.exe
+D:\3 курс\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.pdb
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\bin\Debug\AflyatunovLanguage.exe.config
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\bin\Debug\AflyatunovLanguage.exe
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\bin\Debug\AflyatunovLanguage.pdb
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\bin\Debug\EntityFramework.dll
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\bin\Debug\EntityFramework.SqlServer.dll
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\bin\Debug\EntityFramework.xml
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\bin\Debug\EntityFramework.SqlServer.xml
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\bin\Debug\ru\EntityFramework.resources.dll
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.AssemblyReference.cache
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.SuggestedBindingRedirects.cache
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AddEditWindow.g.cs
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\ClientPage.g.cs
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\MainWindow.g.cs
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\App.g.cs
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage_Content.g.cs
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage_MarkupCompile.cache
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage_MarkupCompile.lref
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\App.baml
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AddEditWindow.baml
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\ClientPage.baml
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\MainWindow.baml
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.g.resources
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.Properties.Resources.resources
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.GenerateResource.cache
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.CoreCompileInputs.cache
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.csproj.CopyComplete
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.exe
+D:\3\2 семак\РПМ 2\23,24,25\AflyatunovLanguage\obj\Debug\AflyatunovLanguage.pdb
